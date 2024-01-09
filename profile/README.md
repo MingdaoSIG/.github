@@ -1,6 +1,6 @@
 <br>
 
-  *To access the English page, please* [***click here***](./README_en-US.md)
+  *To access the English page, please* [***click here***](https://github.com/MingdaoSIG/.github/blob/main/profile/README_en-US.md)
 
 </br>
 
