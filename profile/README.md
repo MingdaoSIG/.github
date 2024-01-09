@@ -23,7 +23,7 @@
 
 在112年10月份，學生創建了「SIG2.0分享平台」，全面升級了SIG共學社群，使社群學習不再受時間和空間的限制。透過這個平台，學生可以與全校的師生交流前瞻趨勢和時事議題，激發更多的學習火花。SIG分享平台提供科技、醫療、財經管理、藝術人文和心理等社會時事和前瞻議題的討論（例如：AI、量子電腦、大歷史、新能源、成癮心理等）。師長和大學學長姐顧問群也參與其中，期待你（妳）加入學習成長的行列。
 
-## About Developer and Designer
+## 關於開發者與設計師
 **Project Manager** ➡ 葉柏辰 (Lazp)
 - [SIG Profile](https://sig.mingdao.edu.tw/@lazp)
 - [GitHub Profile](https://github.com/banahaker)
