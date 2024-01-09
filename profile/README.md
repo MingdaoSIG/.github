@@ -1,3 +1,9 @@
+<br>
+
+  *To access the English page, please* [***click here***](./README_en-US.md)
+  
+</br>
+
 # MDSIG
 ## 關於 MDSIG 平臺
 提供明道中學學生一個討論各種話題的空間，學生可以像在 Facebook、Instagram 一樣在平台上分享自己在特定領域的想法，其他同學可以在貼文底下留言討論。
