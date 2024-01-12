@@ -38,3 +38,13 @@
 
 **設計** ➡ 曾妍菱 (Meru)
 - [SIG Profile](https://sig.mingdao.edu.tw/@meru)
+
+## 專案分析報告
+**前端報告**
+
+![Frontend Reort](https://repobeats.axiom.co/api/embed/dd1c60aacd943310799ba145b006ce845ee8fb48.svg "Repobeats analytics image")
+
+
+**後端報告**
+
+![Backend Report](https://repobeats.axiom.co/api/embed/b00038af47a028a2ad07d91707a259171da6213c.svg "Repobeats analytics image")
