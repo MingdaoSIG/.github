@@ -42,9 +42,9 @@
 ## 專案分析報告
 **前端報告**
 
-![Frontend Reort](https://repobeats.axiom.co/api/embed/dd1c60aacd943310799ba145b006ce845ee8fb48.svg "Repobeats analytics image")
+[![Frontend Reort](https://repobeats.axiom.co/api/embed/dd1c60aacd943310799ba145b006ce845ee8fb48.svg "Frontend analytics image")](https://github.com/MingdaoSIG/MingdaoSIG-Frontend)
 
 
 **後端報告**
 
-![Backend Report](https://repobeats.axiom.co/api/embed/b00038af47a028a2ad07d91707a259171da6213c.svg "Repobeats analytics image")
+[![Backend Report](https://repobeats.axiom.co/api/embed/b00038af47a028a2ad07d91707a259171da6213c.svg "Backend analytics image")](https://github.com/MingdaoSIG/MingdaoSIG-Backend)
