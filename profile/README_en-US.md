@@ -4,14 +4,17 @@
 
 </br>
 
-<a href="https://sig.mingdao.edu.tw">
-  <img src="https://github.com/MingdaoSIG/.github/assets/75195127/1430b5f4-d142-4bf9-bbf4-779c31da6640" align="left" height="150px"/>
-</a>
-
-# [MDSIG](https://sig.mingdao.edu.tw)
-### ***Remove the limitations of time and space in learning***
-
-<br></br>
+<div align="center">
+  <h1>
+    <a href="https://sig.mingdao.edu.tw">
+      <img src="https://sig.mingdao.edu.tw/images/logo.svg" height="120px"/>
+    </a>
+  </h1>
+  Remove the limitations of time and space in learning.<br>
+  <a href="https://sig.mingdao.edu.tw">sig.mingdao.edu.tw</a>
+  <br>
+</div>
+<br>
 
 ## About MDSIG Platform
 The MDSIG Sharing Platform provides students of Mingdao High School with a space for discussing various topics. Students can share their thoughts on specific fields on the platform, similar to Facebook or Instagram, and other students can leave comments to engage in discussions.
@@ -38,3 +41,13 @@ In October of the academic year 2023-2024, students created the "SIG 2.0 Sharing
 
 **Design** ➡ Meru (曾妍菱)
 - [SIG Profile](https://sig.mingdao.edu.tw/@meru)
+
+## Project Analytics
+**Frontend Report**
+
+[![Frontend Reort](https://repobeats.axiom.co/api/embed/dd1c60aacd943310799ba145b006ce845ee8fb48.svg "Frontend analytics image")](https://github.com/MingdaoSIG/MingdaoSIG-Frontend)
+
+
+**Backend Report**
+
+[![Backend Report](https://repobeats.axiom.co/api/embed/b00038af47a028a2ad07d91707a259171da6213c.svg "Backend analytics image")](https://github.com/MingdaoSIG/MingdaoSIG-Backend)
