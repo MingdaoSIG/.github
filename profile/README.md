@@ -4,14 +4,17 @@
 
 </br>
 
-<a href="https://sig.mingdao.edu.tw">
-  <img src="https://github.com/MingdaoSIG/.github/assets/75195127/1430b5f4-d142-4bf9-bbf4-779c31da6640" align="left" height="150px"/>
-</a>
-
-# [MDSIG](https://sig.mingdao.edu.tw)
-### ***讓學習不再有時空的限制***
-
-<br></br>
+<div align="center">
+  <h1>
+    <a href="https://sig.mingdao.edu.tw">
+      <img src="https://sig.mingdao.edu.tw/images/logo.svg" height="120px"/>
+    </a>
+  </h1>
+  讓學習不再有時空的限制。<br>
+  <a href="https://sig.mingdao.edu.tw">sig.mingdao.edu.tw</a>
+  <br>
+</div>
+<br>
 
 ## 關於 MDSIG 平臺
 提供明道中學學生一個討論各種話題的空間，學生可以像在 Facebook、Instagram 一樣在平台上分享自己在特定領域的想法，其他同學可以在貼文底下留言討論。
